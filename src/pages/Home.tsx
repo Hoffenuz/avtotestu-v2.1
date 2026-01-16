@@ -91,7 +91,7 @@ export default function Home() {
                   className="bg-[hsl(var(--cta-green))] hover:bg-[hsl(var(--cta-green-hover))] text-white gap-2 text-base md:text-lg px-6 md:px-8 py-5 md:py-6 rounded-full shadow-xl font-semibold"
                 >
                   <Car className="w-4 h-4 md:w-5 md:h-5" />
-                  Yo'l belgilari
+                  Yo'l belgi
                 </Button>
               </Link>
               <Link to="/variant">
@@ -109,7 +109,7 @@ export default function Home() {
                   className="bg-[hsl(var(--cta-red))] hover:bg-[hsl(var(--cta-red-hover))] text-white gap-2 text-base md:text-lg px-6 md:px-8 py-5 md:py-6 rounded-full shadow-xl font-semibold"
                 >
                   <Play className="w-4 h-4 md:w-5 md:h-5" />
-                  Mavzuli testlar
+                  Mavzuli test
                 </Button>
               </Link>
             </div>
