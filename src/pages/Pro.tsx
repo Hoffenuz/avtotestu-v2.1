@@ -27,7 +27,7 @@ const features = [
 
 const plans = [
   {
-    name: "Haftalik",
+    name: "Haftalik obuna",
     price: "15,000",
     period: "so'm/hafta",
     description: "Qisqa muddatli tayyorlanish uchun",
@@ -42,7 +42,7 @@ const plans = [
     buttonVariant: "outline" as const,
   },
   {
-    name: "Oylik",
+    name: "Oylik obuna",
     price: "39,000",
     period: "so'm/oy",
     description: "Eng mashhur variant",
@@ -51,7 +51,7 @@ const plans = [
       "Barcha mavzular",
       "Reklama yo'q",
       "Cheksiz testlar",
-      "Batafsil izohlar",
+      "Pro telegram guruh",
       "Statistika",
     ],
     highlighted: true,
@@ -59,7 +59,7 @@ const plans = [
     buttonVariant: "default" as const,
   },
   {
-    name: "3 Oylik",
+    name: "3 Oylik obuna ",
     price: "90,000",
     period: "so'm/3 oy",
     description: "23% chegirma bilan",
@@ -67,7 +67,7 @@ const plans = [
       "Barcha Pro imkoniyatlar",
       "3 oy muddatga",
       "Prioritet qo'llab-quvvatlash",
-      "Sertifikat",
+      "Premium telegram guruh",
       "Yangilanishlar",
     ],
     highlighted: false,
