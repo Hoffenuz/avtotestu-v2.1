@@ -43,7 +43,7 @@ const plans = [
   },
   {
     name: "Oylik obuna",
-    price: "39,000",
+    price: "33,000",
     period: "so'm/oy",
     description: "Eng mashhur variant",
     features: [
@@ -60,9 +60,9 @@ const plans = [
   },
   {
     name: "3 Oylik obuna ",
-    price: "90,000",
+    price: "83,000",
     period: "so'm/3 oy",
-    description: "23% chegirma bilan",
+    description: "21% chegirma bilan",
     features: [
       "Barcha Pro imkoniyatlar",
       "3 oy muddatga",
