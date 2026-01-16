@@ -38,7 +38,7 @@ const plans = [
       "7 kun muddatga",
     ],
     highlighted: false,
-    buttonText: "Haftalik olish",
+    buttonText: "Haftalik obuna olish",
     buttonVariant: "outline" as const,
   },
   {
@@ -55,7 +55,7 @@ const plans = [
       "Statistika",
     ],
     highlighted: true,
-    buttonText: "Oylik olish",
+    buttonText: "Oylik obuna olish",
     buttonVariant: "default" as const,
   },
   {
@@ -71,7 +71,7 @@ const plans = [
       "Yangilanishlar",
     ],
     highlighted: false,
-    buttonText: "3 Oylik olish",
+    buttonText: "3 Oylik obuna olish",
     buttonVariant: "outline" as const,
   },
 ];
