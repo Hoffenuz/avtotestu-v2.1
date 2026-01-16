@@ -2,5 +2,22 @@
   from = "/*"
   to = "/index.html"
   status = 200
+# Netlify redirects and SPA fallback
+[[redirects]]
+  from = "http://avtotestu.uz/*"
+  to = "https://www.avtotestu.uz/:splat"
+  status = 301
+  force = true
 
+[[redirects]]
+  from = "https://avtotestu.uz/*"
+  to = "https://www.avtotestu.uz/:splat"
+  status = 301
+  force = true
+
+# SPA fallback
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
 
